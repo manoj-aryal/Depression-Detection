@@ -1,5 +1,7 @@
 # Depression-Detection
 
+**Tsinghua University Deep Learning Summer School Project**
+
 **Accuracy:  0.91173875**
 
 **Precision:  0.9118071**
